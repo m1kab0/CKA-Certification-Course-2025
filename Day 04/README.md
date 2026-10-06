@@ -1,3 +1,5 @@
+DONE
+
 # Day 4: Docker Flags, Deep Dive into Dockerfile, and Exposing Containers | CKA Certification Course 2025
 
 ## Video reference for Day 4 is the following:
