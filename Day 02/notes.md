@@ -1,0 +1,1 @@
+DOcker file push to docker registry 
