@@ -60,8 +60,7 @@ Example:
 ---
 
 ### **Key Takeaways:**
-- The `docker pull` command works similarly across all registries, with the main difference being the fully qualified path (registry URI) to the image.
-- Be sure to authenticate with the registry (e.g., AWS ECR or GCR) before pulling private images.
+- The `docker pull` commawCR) before pulling private images.
 - Docker daemon prefixes `docker.io/library/` for default images on Docker Hub when no registry is specified.
 
 By understanding these patterns, you can seamlessly fetch images from any container registry to suit your deployment needs.
