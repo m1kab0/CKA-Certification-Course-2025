@@ -1,3 +1,6 @@
+Day 05 Done 
+
+
 # Day 5: Docker Multi-Stage Builds & Image Optimization | CKA Certification Course 2025
 
 ## Video reference for Day 5 is the following:
