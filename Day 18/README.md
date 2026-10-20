@@ -1,3 +1,4 @@
+FINISHED
 # Day 18: Taints & Tolerations vs. Node Affinity | MASTER Pod Scheduling Control | CKA Course 2025
 
 ## Video reference for Day 18 is the following:

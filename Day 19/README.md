@@ -1,3 +1,4 @@
+FINISHED
 # Day 19: MASTER Kubernetes Requests, Limits & LimitRange | MUST-KNOW Concepts | CKA Course 2025
 
 ## Video reference for Day 19 is the following:

@@ -1,3 +1,4 @@
+FINISHED
 # Day 17: Mastering Node Selector & Node Affinity Rules in Kubernetes | CKA Course 2025
 
 ## Video reference for Day 17 is the following:
